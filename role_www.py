@@ -15,7 +15,7 @@ def httpd_stop():
 def httpd_status():
     run("/etc/init.d/httpd status")
 
-def web_task():
+def role_www():
     cron_edit()
     httpd_start()
 #    httpd_stop()
