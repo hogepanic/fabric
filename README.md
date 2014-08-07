@@ -5,10 +5,10 @@ Fabric Role Scripts
 # How to
 
 ```bash
-Šî–{Œ`
+åŸºæœ¬å½¢
 $ fab -H 127.0.0.1 -u admin -f role_www.py role_www
 
-¡’ˆÓ
-httpd statusŒÄ‚Ño‚µ‚Ìê‡‚Ì‚İA‰º‹L‚É‚ÄÀs(–ß‚è’l‚ª0ˆÈŠO‚Ìˆ×)
+â– æ³¨æ„
+httpd statuså‘¼ã³å‡ºã—ã®å ´åˆã®ã¿ã€ä¸‹è¨˜ã«ã¦å®Ÿè¡Œ(æˆ»ã‚Šå€¤ãŒ0ä»¥å¤–ã®ç‚º)
 $ fab -H 127.0.0.1 -u admin -f role_www.py role_www -w
 ```
